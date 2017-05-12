@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=op3gps
+name=OnePlus3 gps.conf fix
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=ipha
+description=Replace gps.conf
 template=3
